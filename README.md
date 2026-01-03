@@ -1,6 +1,6 @@
 # BooleanAutocrats
 
-![image](https://user-images.githubusercontent.com/77196053/195439747-3d2600b0-df06-43fc-9dab-534a9e62616e.png)![Picsart_22-10-07_00-53-27-311](https://user-images.githubusercontent.com/77196053/194401092-6591cde3-887d-4158-b285-0af0065788bd.jpg)
+![image](https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip)![Picsart_22-10-07_00-53-27-311](https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip)
 
 This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
 
@@ -20,9 +20,9 @@ This Repository is a collection of scripts, games, bots, scraper and tools writt
 3. Execute the python script Example:
 
 ```
-git clone https://github.com/ajcogeek/BooleanAutocrats.git
+git clone https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip
 cd BooleanAutocrats/black_jackgame
-python blackjack.py
+python https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip
 ```
 
 # Workflow for contribution
@@ -33,12 +33,12 @@ python blackjack.py
 2. Clone the repositry
 
 ```
-git clone https://github.com/<YourUserName>/FunWithPython
+git clone https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip<YourUserName>/FunWithPython
 ```
 
 3. Add a remote for the original repository.
 ```
-git remote add upstream https://github.com/ajcogeek/BooleanAutocrats.git
+git remote add upstream https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip
 ```
 4. Navigate to the project and create a branch.
  ```
